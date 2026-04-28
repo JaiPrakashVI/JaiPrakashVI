@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JaiPrakashVI
+-  Hi, I’m @JaiPrakashVI
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning Javascript
 
