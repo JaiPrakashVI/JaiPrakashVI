@@ -1,18 +1,18 @@
 # Hi there, I'm Jai Prakash 👋
 
-## 🚀 About Me
+##  About Me
 
 🎓 Computer Science Engineering Student at Rajalakshmi Institute of Technology (2024–2028)
 
-💻 Aspiring Software Developer passionate about building scalable applications and solving real-world problems through technology.
+ Aspiring Software Developer passionate about building scalable applications and solving real-world problems through technology.
 
-🌱 Currently learning:
+# Currently learning:
 - Data Structures & Algorithms
 - Full-Stack Development
 - Machine Learning
 - Backend Development with FastAPI
 
-🎯 Career Goal:
+# Career Goal:
 To become a Software Engineer and build impactful products in AI, ML, and Web Technologies.
 
 ---
@@ -42,21 +42,8 @@ To become a Software Engineer and build impactful products in AI, ML, and Web Te
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
----
 
-## 📌 Featured Projects
-
-
-### 📊 Data Visualization Projects
-Interactive dashboards and data analysis using Python and Tableau.
-
-### 🤖 Machine Learning Projects
-Learning and building predictive models using Scikit-learn and TensorFlow.
-
----
-
-
-## 🏆 Current Focus
+##  Current Focus
 
 - Solving DSA problems daily
 - Building Full-Stack Projects
@@ -65,7 +52,7 @@ Learning and building predictive models using Scikit-learn and TensorFlow.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 📧 Email: jaiprakashviofficial@gmail.com
 
