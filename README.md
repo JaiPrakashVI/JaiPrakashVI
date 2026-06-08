@@ -46,8 +46,6 @@ To become a Software Engineer and build impactful products in AI, ML, and Web Te
 
 ## 📌 Featured Projects
 
-### 🌐 Portfolio Website
-Responsive personal portfolio built using HTML, CSS, and JavaScript.
 
 ### 📊 Data Visualization Projects
 Interactive dashboards and data analysis using Python and Tableau.
@@ -57,13 +55,6 @@ Learning and building predictive models using Scikit-learn and TensorFlow.
 
 ---
 
-## 📈 GitHub Stats
-
-![Jai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaiPrakashVI&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiPrakashVIE&layout=compact)
-
----
 
 ## 🏆 Current Focus
 
@@ -78,7 +69,7 @@ Learning and building predictive models using Scikit-learn and TensorFlow.
 
 📧 Email: jaiprakashviofficial@gmail.com
 
-💼 LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/jai-prakash-/)
+💼 LinkedIn: [Here](https://www.linkedin.com/in/jai-prakash-/)
 
 
 ---
