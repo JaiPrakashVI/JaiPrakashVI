@@ -6,13 +6,13 @@
 
  Aspiring Software Developer passionate about building scalable applications and solving real-world problems through technology.
 
-# Currently learning:
+## Currently learning:
 - Data Structures & Algorithms
 - Full-Stack Development
 - Machine Learning
 - Backend Development with FastAPI
 
-# Career Goal:
+## Career Goal:
 To become a Software Engineer and build impactful products in AI, ML, and Web Technologies.
 
 ---
