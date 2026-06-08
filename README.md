@@ -1,8 +1,86 @@
--  Hi, I’m @JaiPrakashVI
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning Javascript
+# Hi there, I'm Jai Prakash 👋
 
-<!---
-JaiPrakashVI/JaiPrakashVI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+
+🎓 Computer Science Engineering Student at Rajalakshmi Institute of Technology (2024–2028)
+
+💻 Aspiring Software Developer passionate about building scalable applications and solving real-world problems through technology.
+
+🌱 Currently learning:
+- Data Structures & Algorithms
+- Full-Stack Development
+- Machine Learning
+- Backend Development with FastAPI
+
+🎯 Career Goal:
+To become a Software Engineer and build impactful products in AI, ML, and Web Technologies.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Machine Learning & Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 Portfolio Website
+Responsive personal portfolio built using HTML, CSS, and JavaScript.
+
+### 📊 Data Visualization Projects
+Interactive dashboards and data analysis using Python and Tableau.
+
+### 🤖 Machine Learning Projects
+Learning and building predictive models using Scikit-learn and TensorFlow.
+
+---
+
+## 📈 GitHub Stats
+
+![Jai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaiPrakashVI&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiPrakashVIE&layout=compact)
+
+---
+
+## 🏆 Current Focus
+
+- Solving DSA problems daily
+- Building Full-Stack Projects
+- Learning Machine Learning
+- Preparing for Software Development Internships
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: jaiprakashviofficial@gmail.com
+
+💼 LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/jai-prakash-/)
+
+
+---
+
+⭐ "Code. Learn. Build. Repeat."
