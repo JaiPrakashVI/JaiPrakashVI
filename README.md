@@ -2,8 +2,7 @@
 
 ##  About Me
 
-🎓 Computer Science Engineering Student at Rajalakshmi Institute of Technology (2024–2028)
-
+ Computer Science Engineering Student at Rajalakshmi Institute of Technology (2024–2028)
  Aspiring Software Developer passionate about building scalable applications and solving real-world problems through technology.
 
 ## Currently learning:
@@ -12,12 +11,7 @@
 - Machine Learning
 - Backend Development with FastAPI
 
-## Career Goal:
-To become a Software Engineer and build impactful products in AI, ML, and Web Technologies.
-
----
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,23 +36,14 @@ To become a Software Engineer and build impactful products in AI, ML, and Web Te
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-
 ##  Current Focus
-
 - Solving DSA problems daily
 - Building Full-Stack Projects
 - Learning Machine Learning
 - Preparing for Software Development Internships
-
 ---
-
 ##  Connect With Me
-
 📧 Email: jaiprakashviofficial@gmail.com
-
 💼 LinkedIn: [Here](https://www.linkedin.com/in/jai-prakash-/)
-
-
 ---
-
 ⭐ "Code. Learn. Build. Repeat."
