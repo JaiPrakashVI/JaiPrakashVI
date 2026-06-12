@@ -7,6 +7,7 @@
 
 ## Currently learning:
 - Data Structures & Algorithms
+- 
 - Full-Stack Development
 - Machine Learning
 - Backend Development with FastAPI
