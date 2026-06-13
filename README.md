@@ -1,4 +1,4 @@
-# Hi there, I'm Jai Prakash 👋
+# Hi there, I'm Jai Prakash!
 
 ##  About Me
 
@@ -7,7 +7,6 @@
 
 ## Currently learning:
 - Data Structures & Algorithms
-- 
 - Full-Stack Development
 - Machine Learning
 - Backend Development with FastAPI
@@ -37,14 +36,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-##  Current Focus
-- Solving DSA problems daily
-- Building Full-Stack Projects
-- Learning Machine Learning
-- Preparing for Software Development Internships
----
 ##  Connect With Me
 📧 Email: jaiprakashviofficial@gmail.com
 💼 LinkedIn: [Here](https://www.linkedin.com/in/jai-prakash-/)
----
-⭐ "Code. Learn. Build. Repeat."
+
